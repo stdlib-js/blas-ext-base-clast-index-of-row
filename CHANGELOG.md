@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`430fdea`](https://github.com/stdlib-js/stdlib/commit/430fdea947428af11c0e75dc6f6a0bd3cbd13e88) - **chore:** clean-up [(#13805)](https://github.com/stdlib-js/stdlib/pull/13805) _(by Philipp Burckhardt)_
 -   [`4da1e58`](https://github.com/stdlib-js/stdlib/commit/4da1e5810731cacf819808f65463ceecbad6e020) - **bench:** fix benchmark names _(by Athan Reines)_
 -   [`9559de0`](https://github.com/stdlib-js/stdlib/commit/9559de093ed0c43ba65c7b6829be61a5967cd2f4) - **chore:** propagate typo and doc-note fixes across `blas` sibling packages [(#12202)](https://github.com/stdlib-js/stdlib/pull/12202) _(by Philipp Burckhardt)_
 -   [`34e6d72`](https://github.com/stdlib-js/stdlib/commit/34e6d72459f98985d2d6ca0a103f6ca31d0af4ad) - **feat:** add `blas/ext/base/clast-index-of-row` [(#12029)](https://github.com/stdlib-js/stdlib/pull/12029) _(by Muhammad Haris, Athan Reines)_
